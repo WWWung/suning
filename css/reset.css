@@ -1,0 +1,16 @@
+body, h1, h2, h3, h4, h5, dl, dd{
+	margin: 0;
+}
+a{
+	text-decoration: none;
+	font-size: 12px;
+}
+ul, ol{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+img{
+	vertical-align: top;
+	border: none;
+}
